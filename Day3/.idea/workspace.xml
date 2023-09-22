@@ -5,13 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="233e6b16-72a2-49ef-a069-90a77c714516" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/props/phone/CreatePhone.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/props/phone/EditPhone.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/props/phone/ListPhone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/demo/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/.idea/baitapreact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/service/cart/AddCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/service/cart/ListCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/service/cart/ViewsCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/service/product/ListProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/service/product/ViewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapreact/test/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/exam-md4-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/CreateEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/EditEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/ListEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/ViewEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/exam-md5-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/main/java/com/example/exammd5/ExamMd5Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/test/java/com/example/exammd5/ExamMd5ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/product-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/CreateProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/EditProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/ListProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IGenerateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit/demo/src/service/employee/CreateEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit/demo/src/service/employee/EditEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit/demo/src/service/employee/ListEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit/demo/src/service/employee/ViewEmployee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/repository/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/impl/ProductService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +151,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Module5/Day5&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Module5/Day4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +180,9 @@
       <workItem from="1692074365944" duration="13478000" />
       <workItem from="1692113318342" duration="701000" />
       <workItem from="1692147903740" duration="1617000" />
-      <workItem from="1692155699901" duration="1772000" />
+      <workItem from="1692155699901" duration="5366000" />
+      <workItem from="1692320795680" duration="1796000" />
+      <workItem from="1692756389037" duration="440000" />
     </task>
     <servers />
   </component>

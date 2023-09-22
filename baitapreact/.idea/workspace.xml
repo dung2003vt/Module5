@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca652397-dbdc-4b89-8cce-847608163a65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day6/demo/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/.idea/Redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redux/redux/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/baitapreact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/service/cart/AddCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/service/cart/ListCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/service/cart/ViewsCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/service/product/ListProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/service/product/ViewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/.idea/city-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/src/city/CreateCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/src/city/EditCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/src/city/ListCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../city-fe/city/src/city/ViewCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo/src/City/CreateCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo/src/City/ListCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo/src/City/UpdateCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo/src/City/ViewsCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/exam-md4-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/CreateEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/EditEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/ListEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md4-fe/exam/src/service/employee/ViewEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/exam-md5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/exam-md5-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5-fe/exam/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/main/java/com/example/exammd5/ExamMd5Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam-md5/exam-md5/src/test/java/com/example/exammd5/ExamMd5ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/product-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/CreateProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/EditProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/ListProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/product/ViewProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-fe/demo/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IGenerateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Redux/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Module5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day6/.idea/Day6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Redux/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/repository/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/service/impl/ProductService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UH5tWTKKnZV03KmabNmLC7ezdN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Module4/ajax_c02i",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca652397-dbdc-4b89-8cce-847608163a65" name="Changes" comment="" />
+      <created>1692583879197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692583879197</updated>
+      <workItem from="1692583880272" duration="17765000" />
+      <workItem from="1692665294994" duration="1195000" />
+      <workItem from="1692751152097" duration="2917000" />
+      <workItem from="1694487431243" duration="5000" />
+      <workItem from="1694490457124" duration="1879000" />
+      <workItem from="1695367912792" duration="4163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

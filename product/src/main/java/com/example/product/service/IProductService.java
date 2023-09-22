@@ -1,16 +1,12 @@
 package com.example.product.service;
 
 import com.example.product.model.Product;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 import java.util.Optional;
 
-public interface IProductService {
-    List<Product> findAll();
+public interface IProductService extends IGenerateService<Product,Long>{
 
-    Optional<Product> findOne(Long id);
-
-    void save(Product product);
-
-    void delete(Long id);
 }
